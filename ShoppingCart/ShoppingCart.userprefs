@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{1CDD93B2-D220-4D36-AE99-3EDFB6FD6FF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingCart/Program.cs">
+    <Files>
+      <File FileName="ShoppingCart/Program.cs" Line="77" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ShoppingCart PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
